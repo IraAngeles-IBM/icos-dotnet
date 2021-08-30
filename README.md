@@ -4,6 +4,7 @@
 
 ### IBM Cloud Cloud Object Storage Documentation
 
-[Creating a presigned URL](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-presign-url)
+* [Get Started](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-getting-started-cloud-object-storage)
+* [Creating a presigned URL](https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-presign-url)
 
 
