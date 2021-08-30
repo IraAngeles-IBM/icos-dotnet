@@ -1,0 +1,15 @@
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/icos-dotnet.deps.json
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/icos-dotnet.runtimeconfig.json
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/icos-dotnet.runtimeconfig.dev.json
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/icos-dotnet.dll
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/ref/icos-dotnet.dll
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/bin/Debug/net5.0/icos-dotnet.pdb
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.csproj.AssemblyReference.cache
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.AssemblyInfoInputs.cache
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.AssemblyInfo.cs
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.csproj.CoreCompileInputs.cache
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.dll
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/ref/icos-dotnet.dll
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.pdb
+/Users/isaias/Documents/Projects/Developer_Advocate_Group/CODE_PATTERNS/icos-dotnet/obj/Debug/net5.0/icos-dotnet.genruntimeconfig.cache
