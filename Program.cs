@@ -9,15 +9,15 @@ namespace icos_dotnet
             // --- link generator --- //
 
             const string httpMethod = "GET";
-            const string host = "s3.jp-tok.cloud-object-storage.appdomain.cloud";
+            const string host = "{endpoint}";
             const string region = "";
             const string endpoint = "https://" + host;
-            const string bucket = "dotnet-icos";
-            const string objectKey = "Samplepdf.pdf";
+            const string bucket = "example-bucket";
+            const string objectKey = "example-object";
             int expiration = 86400;  // time in seconds
 
-            const string accessKeyId = "b07bdb7f374648da93727ec216015387";
-            const string secretAccessKey = "564b2e8ab4d2dcc11343ee3d8350a92d0e27ddab7400e5e0";
+            const string accessKeyId = "{COS_HMAC_ACCESS_KEY_ID}";
+            const string secretAccessKey = "{COS_HMAC_SECRET_ACCESS_KEY}";
 
 
 
